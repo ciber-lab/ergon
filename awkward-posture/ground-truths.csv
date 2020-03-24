@@ -1,0 +1,17 @@
+Posture	Trunk Flexion (degree)	Shoulder Flexion (degree)	Trunk Flexion Risk Level	Shoulder Flexion Risk Level
+P1	0	0	1	1
+P2	0	90	1	4
+P3	0	120	1	4
+P4	0	30	1	2
+P5	30	60	2	3
+P6	90	90	3	4
+P7	0	45	1	2
+P8	40	40	2	2
+P9	30	85	2	3
+P10	35	130	2	5
+P11	45	40	2	2
+P12	40	100	2	4
+P13	45	125	2	5
+P14	25	115	1	4
+P15	25	90	1	4
+P16	90	160	3	5

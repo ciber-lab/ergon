@@ -2,13 +2,13 @@
 
 # **PROJECT ERGON**
 
-Project Ergon aims at minimizing ergonomic risks of construction worker using smartphone and machine learning models.
+Project Ergon aims at minimizing the ergonomic risks to construction workers using smartphone sensors and machine learning models.
 
 <img src="extras/graphics/ergon-flowchart.png" width="800" align="middle"/>
 
 ## **What is ergonomics?**
 
-- Ergonomics means the science of **designing a job to fit the workers’ physical capabilities**, rather than imposing the job on workers’ body.
+- Ergonomics is the the science of **designing a job to fit the workers’ physical capabilities**, rather than imposing the job on a worker's body.
 
 ## **What is musculoskeletal disorders (MSDs)?**
 
@@ -21,7 +21,7 @@ Project Ergon aims at minimizing ergonomic risks of construction worker using sm
 
 ### **1. Awkward posture**
 
-If a person is not in his/her natural posture. Performing activity in an awkward posture repetitively and/or for a long time can cause MSDs.
+An awkward posture occurs if a person is not in his/her natural posture. Performing an activity in an awkward posture repetitively and/or for a long time can cause MSDs.
 
 **Demo:** ([Watch the full video](https://youtu.be/2bdmS0U2x-Q))
 
@@ -32,7 +32,7 @@ If a person is not in his/her natural posture. Performing activity in an awkward
 
 ### **2. Overexertion**
 
-If a person applies too much force to perform an activty. Performing overexerted activity for a long time and/or very frequently can cause MSDs.
+Overexertion occurs if a person applies too much force to perform an activty. Performing an overexerted activity for a long time and/or very frequently can cause MSDs.
 
 **Demo:** ([Watch the full video](https://youtu.be/aiErxG5mV3c))
 
@@ -42,7 +42,7 @@ If a person applies too much force to perform an activty. Performing overexerted
 
 ## **Publications related to Project Ergon**
 
-**Note: Please cite the articles if you find these useful in your research.**
+**Note: Please cite these articles if you use the dataset, model or method(s), or find the articles useful in your research. Thank you!**
 
 - Nath, N. D., Akhavian, R., & Behzadan, A. H. (2017). ***Ergonomic analysis of construction worker's body postures using wearable mobile sensors.*** Applied ergonomics, 62, 107-117. ([Read from here](http://people.tamu.edu/~abehzadan/documents/Nath&Akhavian&Behzadan.AE.2017.pdf))
 
